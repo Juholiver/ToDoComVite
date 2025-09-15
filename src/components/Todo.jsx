@@ -9,7 +9,7 @@ const Todo = ({todo}) => {
                 <p className="category">({todo.category})</p> 
             </div>
             <div> 
-                <button className='complete'>Completar</button>
+                <button className='complete'>Adicionar</button>
                 <button className='delete'>X</button>
             </div>
     
